@@ -1,0 +1,29 @@
+# Credit Card Fraud Detection EDA - Python Requirements
+# Generated for project submission
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Interactive Visualizations
+plotly>=5.11.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.15.0
+
+# Additional Utilities
+warnings
+os
+sys
+
+# Optional: For enhanced analysis
+# statsmodels>=0.13.0
+# yellowbrick>=1.5.0
