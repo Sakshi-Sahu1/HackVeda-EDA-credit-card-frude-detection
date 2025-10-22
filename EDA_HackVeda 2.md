@@ -2,7 +2,7 @@
 # Credit Card Fraud Detection - Exploratory Data Analysis
 # Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-# Import necessary libraries
+## Import necessary libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
